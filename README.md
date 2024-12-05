@@ -1,17 +1,21 @@
-
-
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jisoo's%20Github&fontSize=90)
 
 &nbsp; 
 ## 🔎Profile
-✉️ **이메일** | 000jisoo@gmail.com
+✉️ **이메일** | 000jisoo@gmail.com 
 
 <!-- [000jisoo@gmail.com](mailto:000jisoo@gmail.com)  -->
 
 📱 **연락처** | 010-5253-7140
 
 🏠 **주소** | 경기도 하남시 선동
+
+
+<a href="mailto:000jisoo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+</a> <a href="mailto:000jisoo@gmail.com">
+    <img src="https://img.shields.io/badge/notion-62BB47?style=for-the-badge&logo=notion&logoColor=white"> 
+</a>
 
 &nbsp; 
 ## 🛠️ SKills
@@ -29,6 +33,5 @@ IDE|Management|Environment|API
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jisoo-Jung&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jisoo-Jung)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jisoo-Jung&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jisoo-Jung&langs_count=4&layout=compact)
