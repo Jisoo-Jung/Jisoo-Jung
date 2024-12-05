@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**Jisoo-Jung/Jisoo-Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jisoo's%20Github&fontSize=90)
+
+# Jung Jisoo😁
+
+&nbsp; 
+## 🔎Profile
+✉️ **이메일** | [000jisoo@gmail.com](mailto:000jisoo@gmail.com) 
+
+📱 **연락처** | 010-5253-7140
+
+🏠 **주소** | 경기도 하남시 선동
+
+&nbsp; 
+## 🛠️ SKills
+
+헤더1|헤더2|헤더3|헤더4
+---|---|---|---
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/jsp-EE4353?style=for-the-badge&logo=jsp&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white"> |<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">|  <img src="https://img.shields.io/badge/MyBatis-D30707?style=for-the-badge&logo=MyBatis&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> | <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
+
+&nbsp; 
+## ⚙️ Tools
+
+협업툴|헤더2|헤더3|헤더4
+---|---|---|---
+ <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Visual Studio Code-2185D0?style=for-the-badge&logo=Visual Studio Code&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">| <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/yaml-CB171E?style=for-the-badge&logo=yaml&logoColor=white"> | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> | <img src="https://img.shields.io/badge/kakao Login-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"><img src="https://img.shields.io/badge/JDBC-024EFF?style=for-the-badge&logo=JDBC&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/rest-6E9F18?style=for-the-badge&logo=rest&logoColor=white">
+
+
+
+&nbsp; 
+<div>
+  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisoo-Jung&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color&text_color&icon_color=61dafb&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+  &nbsp; 
+  &nbsp; 
+  </br>
+    <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=Jisoo-Jung&show_icons=true"/>
+</div>
+
+
