@@ -16,7 +16,7 @@
 
 <a href="mailto:000jisoo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-</a> <a href="mailto:000jisoo@gmail.com">
+</a> <a href="https://picturesque-season-5eb.notion.site/150e0cbd58448062a2cbc36e5ffc5a5b?pvs=4">
     <img src="https://img.shields.io/badge/notion-62BB47?style=for-the-badge&logo=notion&logoColor=white"> 
 </a>
 
